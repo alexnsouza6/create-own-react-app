@@ -1,0 +1,18 @@
+{
+  "name": "create-own-react-app",
+  "version": "1.0.0",
+  "description": "Personal version of CRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Souza",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "shelljs": "^0.8.3"
+  },
+  "bin": {
+    "create-own-react-app": "index.js"
+  }
+}
